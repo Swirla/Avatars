@@ -1,7 +1,7 @@
 name = MagentaWorkDone1
 type = body+head
 scale = 1
-filename = MagentaWorkDone1.fbx/MagentaWorkDone1.fbx
+filename = MagentaWorkDone1/MagentaWorkDone1.fbx
 texdir = MagentaWorkDone1/textures
 joint = jointEyeLeft = LeftEye
 joint = jointRightHand = RightHand
