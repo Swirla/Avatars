@@ -1,7 +1,7 @@
 name = MagentaWorkDone1
 type = body+head
 scale = 1
-filename = Avatars/MagentaWorkDone1/MagentaWorkDone1/MagentaWorkDone1.fbx
+filename = https://github.com/Swirla/Avatars/raw/master/MagentaWorkDone1/MagentaWorkDone1/MagentaWorkDone1.fbx
 texdir = MagentaWorkDone1/textures
 joint = jointEyeLeft = LeftEye
 joint = jointRightHand = RightHand
